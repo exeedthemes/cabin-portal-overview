@@ -74,13 +74,3 @@ These screenshots show the local build with fictional records.
 | Passenger station picker | Staff inventory |
 | --- | --- |
 | <img src="screenshots/passenger-station-mobile.png" alt="Passenger station picker at phone width" width="300"> | <img src="screenshots/staff-inventory-mobile.png" alt="Staff inventory cards at phone width" width="300"> |
-
-### Admin settings
-
-**Desktop**
-
-![Admin settings showing supervisor permissions and station configuration](screenshots/admin-settings-desktop.png)
-
-**Mobile**
-
-<img src="screenshots/admin-settings-mobile.png" alt="Admin settings and role permissions at phone width" width="300">

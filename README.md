@@ -45,15 +45,15 @@ Enter the username for the role you’re reviewing and use the password provided
 
 ## Screenshots
 
-### Live website
+### Local preview
 
-![Live passenger portal showing station selection](screenshots/live-passenger.png)
+![Local passenger portal showing station selection](screenshots/local-passenger.png)
 
-![Live staff sign-in page](screenshots/live-staff-sign-in.png)
+![Local staff sign-in page](screenshots/local-staff-sign-in.png)
 
 ### Demo workflows
 
-These screenshots use fictional records.
+These screenshots show the local build with fictional records.
 
 ![Passenger portal showing found items for a sample airline](screenshots/passenger.png)
 

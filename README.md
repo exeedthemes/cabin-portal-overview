@@ -45,12 +45,16 @@ Your team can use the hosted portal free of charge.
 
 ## Screenshots
 
+### Live website
+
+![Live passenger portal showing the station selection screen](screenshots/live-passenger.png)
+
+![Live AeroFind staff sign-in page](screenshots/live-staff-sign-in.png)
+
+### Demo workflows
+
 These screenshots show an isolated preview with fictional records.
 
-### Passenger portal
-
 ![Passenger portal showing found items for a sample airline](screenshots/passenger.png)
-
-### Staff console
 
 ![Staff dashboard showing sample inventory and claim activity](screenshots/staff.png)

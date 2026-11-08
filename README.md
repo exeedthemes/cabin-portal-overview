@@ -60,3 +60,11 @@ These screenshots show the local build with fictional records.
 ![Staff dashboard showing sample inventory and claim notes](screenshots/staff-inventory.png)
 
 ![Detailed staff record showing internal notes and handover history](screenshots/staff-record-details.png)
+
+### Dark mode
+
+![Passenger claim listings in dark mode](screenshots/passenger-claims-dark.png)
+
+![Staff inventory and claim notes in dark mode](screenshots/staff-inventory-dark.png)
+
+![Detailed staff record with internal notes and handover history in dark mode](screenshots/staff-record-details-dark.png)

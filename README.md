@@ -19,9 +19,18 @@ AeroFind helps airport teams handle items left on board. Passengers can search f
 - Review activity and notes for a case and send configured passenger notifications.
 - Estimate optional handling and storage charges using configured fee rules.
 
-## Stations and accounts
+## Accounts and sign-in
 
-Staff and supervisors sign in with accounts for their airport station. Administrators manage station settings and platform configuration. Passenger identification and verification details are available to staff during claim review. The public portal displays the information needed to recognize an item.
+| Access | Who it’s for | What it covers |
+| --- | --- | --- |
+| Passenger | Anyone looking for an item left on board | Browse listings, submit a claim, or file a lost report without creating an account. |
+| Staff | Airport operations teams | Sign in for the assigned station to log found items, work through inventory and claims, and record handovers. |
+| Supervisor | Station leads | Work within the assigned station, with additional permissions to update passenger details and item photos and remove records. |
+| Administrator | Portal administrators | Manage stations, account settings, and platform configuration. |
+
+Use the [staff sign-in page](https://cabin.aerofind.online/staff) for staff, supervisor, and administrator access. To request access, contact the portal owner with your airport station and the role you need. Sign-in credentials are provided privately.
+
+Passengers enter their contact and journey details when submitting a report or claim. The public listing shows details needed to recognize the item and keeps passenger verification details private.
 
 ## Example walkthrough
 
@@ -32,7 +41,7 @@ Staff and supervisors sign in with accounts for their airport station. Administr
 
 ## Access and cost
 
-Your team can use the hosted portal free of charge. The public passenger portal is open to browse. Contact the portal owner to arrange a staff account for your station.
+Your team can use the hosted portal free of charge.
 
 ## Screenshots
 

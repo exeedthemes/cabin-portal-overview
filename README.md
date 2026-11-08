@@ -47,14 +47,16 @@ Enter the username for the role you’re reviewing and use the password provided
 
 ### Local preview
 
-![Local passenger portal showing station selection](screenshots/local-passenger.png)
+![Local passenger portal showing station selection](screenshots/passenger-station.png)
 
-![Local staff sign-in page](screenshots/local-staff-sign-in.png)
+![Local staff sign-in page](screenshots/staff-sign-in.png)
 
 ### Demo workflows
 
 These screenshots show the local build with fictional records.
 
-![Passenger portal showing found items for a sample airline](screenshots/passenger.png)
+![Passenger portal showing found items for a sample airline](screenshots/passenger-claims.png)
 
-![Staff dashboard showing sample inventory and claims](screenshots/staff.png)
+![Staff dashboard showing sample inventory and claim notes](screenshots/staff-inventory.png)
+
+![Detailed staff record showing internal notes and handover history](screenshots/staff-record-details.png)
